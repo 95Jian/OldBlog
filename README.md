@@ -1,5 +1,5 @@
 # OldBlog
-从初始项目中删掉了一些功能
+从初始项目中删掉了一些功能，以下是之前作者的readme
 
 
 
@@ -93,7 +93,7 @@ JS 依赖及参考的 css：[axios](https://github.com/axios/axios)、[moment](h
 
 ## 快速开始
 
-1. 创建 MySQL 数据库`blog`，并运行`blog.sql`初始化表数据
+1. 创建 MySQL 数据库`blog`，并运行`new_blog.sql`初始化表数据
 2. 修改配置信息`blog-api/src/main/resources/application-dev.properties`
 3. 安装 Redis 并启动
 4. 启动后端SpringBoot服务
